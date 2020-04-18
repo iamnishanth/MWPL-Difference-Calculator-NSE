@@ -1,2 +1,2 @@
 # MWPL-Difference-Calculator-NSE
-This project calculates the difference between two trading session's MWPL data . 
+This project calculates the percentage difference between two trading session's MWPL data .
